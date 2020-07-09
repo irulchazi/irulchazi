@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, Chairul here 👋
+-  I’m currently working on AI Team, assisting about data & infrastructure on day-to-day basis.
+-  I’m currently learning about cloud infrastructure, machine learning, big data processing and related tools.
+-  I'm working on my own website (doesn't have any content yet) [pandora doc](https://irulchazi.github.io), and some side project.
+-  You can reach me via irulchazi@gmail.com (e-mail) or [@irulchazi](https://t.me/irulchazi) (telegram)
 
 <!--
 **irulchazi/irulchazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
